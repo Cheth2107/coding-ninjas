@@ -48,7 +48,7 @@
 
 import java.util.*;
 
-public class zscalar {
+public class Solution {
     static int[] detectOdd(int n, int nums[]) {
         int xorResult = 0;
 
